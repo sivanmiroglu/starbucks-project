@@ -1,0 +1,63 @@
+.nav-link {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+}
+
+.location-icon {
+    color: #00704A;
+}
+
+.navbar-btn-text {
+    font-size: 14px !important;
+}
+
+.find-store-section {
+    background-color: #06ce8d;
+}
+
+.gifts-title {
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.gifts-text {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+.gifts-text-color {
+    color: #1e3932 !important;
+}
+.section-btn {
+    font-size: 14px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+}
+.for-everyone-section {
+    background-color: #d50032;
+}
+.our-holiday-section {
+    background-color: #d50032;
+}
+.nice-list-section {
+    background-color: #0b7a55;
+}
+.your-cheer-section{
+    background-color: #f2f0eb;
+}
+.cheer-text-color {
+    color:  #006241 !important;
+}
+.buy-box-section{
+    background-color:  #8e0031;
+}
+.details-text{
+    font-size: 14px;
+    color: black;
+}
+.footer-link{
+    text-decoration: none;
+    color: #7b7b7b;
+}
+.footer-link:hover{
+    color: black;
+}
